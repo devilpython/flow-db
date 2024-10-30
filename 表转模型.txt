@@ -1,0 +1,1 @@
+xorm reverse mysql aicyber:Aicyber201415926@tcp\(aicyber-nf-w.mysql.rds.aliyuncs.com:3306\)/ai_flow5?charset=utf8 /media/devil/data/go_workspace/src/xorm.io/cmd/xorm/templates/goxorm
